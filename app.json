@@ -2,6 +2,6 @@
   "name": "Iot_Websocket",
   "description": "Creates a over the firewall Websockets connection for ESP8266 or ESP32",
   "repository": "https://github.com/diprajpatra/iot_websocket.git",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "logo": "https://siteyaar.com/siteyaar.png",
   "keywords": ["esp8266", "google home", "ifttt", "iot", "arduino", "esp32"]
 }
